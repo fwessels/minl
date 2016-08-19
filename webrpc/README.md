@@ -2,6 +2,16 @@
 WebRTC Experiments
 ==================
 
+Install
+-------
+
+```
+go get github.com/keroserene/go-webrtc
+```
+
+Run
+---
+
 In order to establish a connection, for now the `offer` and `answer` need to be manually copied between the invoker and the server.
 
 Run as follows for the invoker:
